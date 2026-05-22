@@ -128,7 +128,7 @@ I enjoy learning new technologies, creating real-world projects, and sharing my 
 
 ## 🤝 Let's Connect  
 
-- 📧 Email:itsmemarwanefo@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/marwane-faridi-bb6076360  
+- 📧 Email:adnaneelmenouar7@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/adnane-el-menouar-b0020230b/  
 
 ⭐ *Thanks for visiting my profile!*
