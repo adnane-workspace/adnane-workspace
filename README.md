@@ -84,8 +84,8 @@
 
 ## 🤝 Restons en contact !
 
-* [cite_start]📧 **Email :** [adnaneelmenouar7@gmail.com](mailto:adnaneelmenouar7@gmail.com) [cite: 4]
-* [cite_start]💼 **LinkedIn :** [linkedin.com/in/adnane-el-menouar](https://linkedin.com/in/adnane-el-menouar) [cite: 8]
-* [cite_start]🌐 **Portfolio :** [adnane-workspace.github.io/portfolio-adnane/](https://adnane-workspace.github.io/portfolio-adnane/) 
+* [cite_start]📧 **Email :** [adnaneelmenouar7@gmail.com](mailto:adnaneelmenouar7@gmail.com)
+* [cite_start]💼 **LinkedIn :** https://www.linkedin.com/in/adnane-el-menouar-b0020230b/
+* [cite_start]🌐 **Portfolio :** [adnane-workspace.github.io/portfolio-adnane/](https://adnane-workspace.github.io/adnaneP/) 
 
 ⭐ *Merci de votre visite !*
