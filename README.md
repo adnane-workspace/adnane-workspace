@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adnane-workspace.github.io/AdnaneP/">
+  <a href="https://elmenouar.app">
     <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adnane-el-menouar-b0020230b/">
